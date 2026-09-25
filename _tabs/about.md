@@ -1,9 +1,7 @@
-
 ---
-layout: page
 title: About
-permalink: /about/
-nav_order: 1
+icon: fas fa-info-circle
+order: 1
 ---
  
 # About Me
