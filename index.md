@@ -1,8 +1,9 @@
 
 ---
-layout: home
-# Index page
+layout: page
+title: Home
 ---
+
 # About Me
  
 Hi, I'm Wilsen Kannan.
