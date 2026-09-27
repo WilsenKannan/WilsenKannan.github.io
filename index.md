@@ -23,7 +23,7 @@ A Certified Packaging Professional (CPP) who has a decade of experience and pass
 ## Education
 - Australasian Institute of Packaging
 - Institute of Packaging Professional
-- National Energy Unviversity
+- National Energy University
 
 ## Skills
 - Cost Optimization
