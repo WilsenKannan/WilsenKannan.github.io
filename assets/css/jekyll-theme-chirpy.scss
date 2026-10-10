@@ -1,23 +1,16 @@
---
 ---
+---
+
+@import "main";
 
 h1, h2, h3 {
   color: #fbbf24;
 }
 
 a {
-  color: #22d3ee;
+  color: #06b6d4;
 }
 
-#sidebar {
-  background: linear-gradient(
-    180deg,
-    #0f172a,
-    #1e293b
-  );
-}
-
-#avatar {
-  border-radius: 50%;
-  border: 3px solid #fbbf24;
+.sidebar {
+  background-color: #0f172a;
 }
