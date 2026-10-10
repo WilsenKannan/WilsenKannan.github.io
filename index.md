@@ -25,8 +25,10 @@ A Certified Packaging Professional (CPP) who has a decade of experience and pass
 - Institute of Packaging Professional
 - National Energy University
 
-## Skills
-- Cost Optimization
+## Skills & Services
+- Packaging Optimization Study
 - Packaging Design
 - Material Development
 - Sustainability Reporting
+- Packaging Health Check
+- Technical Training Workshop
