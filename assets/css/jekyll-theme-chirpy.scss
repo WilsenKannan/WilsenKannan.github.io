@@ -1,16 +1,43 @@
 ---
 ---
 
-@import "main";
+@import "jekyll-theme-chirpy";
 
-h1, h2, h3 {
+/* Wilsen Kannan - Packaging Professional Theme */
+
+/* Headings: warm gold */
+h1,
+h2,
+h3 {
   color: #fbbf24;
 }
 
+/* Links: cyan */
 a {
-  color: #06b6d4;
+  color: #22d3ee;
 }
 
-.sidebar {
-  background-color: #0f172a;
+/* Sidebar: deep navy gradient */
+#sidebar {
+  background: linear-gradient(
+    180deg,
+    #0f172a,
+    #1e293b
+  );
+}
+
+/* Profile photo */
+#avatar {
+  border-radius: 50%;
+  border: 3px solid #fbbf24;
+}
+
+/* Main content width */
+main {
+  max-width: 1100px;
+}
+
+/* Article text */
+.content {
+  font-size: 1.05rem;
 }
