@@ -21,3 +21,25 @@ body {
 h1, h2, h3 {
   color: #fbbf24 !important;
 }
+
+/* Profile Name */
+.site-title {
+  color: white !important;
+  font-weight: 700;
+}
+
+/* Cards */
+.card,
+.post-preview {
+  border-radius: 16px;
+}
+
+/* Hover Effects */
+a:hover {
+  color: #38bdf8 !important;
+}
+
+#avatar {
+  border-radius: 50%;
+  border: 3px solid #fbbf24;
+}
