@@ -1,45 +1,23 @@
+--
 ---
----
- 
-@import "main";
- 
-/* Background */
-body {
-background-color: #0f172a;
-}
- 
-/* Sidebar */
-#sidebar {
-background: linear-gradient(
-180deg,
-#0f172a 0%,
-#1e293b 100%
-) !important;
-}
- 
-/* Headings */
+
 h1, h2, h3 {
-color: #fbbf24 !important;
+  color: #fbbf24;
 }
- 
-/* Links */
+
 a {
-color: #22d3ee !important;
+  color: #22d3ee;
 }
- 
-/* Profile Name */
-.site-title {
-color: white !important;
-font-weight: 700;
+
+#sidebar {
+  background: linear-gradient(
+    180deg,
+    #0f172a,
+    #1e293b
+  );
 }
- 
-/* Cards */
-.card,
-.post-preview {
-border-radius: 16px;
-}
- 
-/* Hover Effects */
-a:hover {
-color: #38bdf8 !important;
+
+#avatar {
+  border-radius: 50%;
+  border: 3px solid #fbbf24;
 }
