@@ -15,7 +15,6 @@ A Certified Packaging Professional (CPP) who has a decade of experience and pass
 - Project Management
  
 ## Qualifications
- 
 - Bachelor of Mechanical Engineering
 - Diploma in Packaging Technology 
 - Certified Packaging Professional
