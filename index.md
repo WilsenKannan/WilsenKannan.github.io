@@ -7,24 +7,24 @@ title: Home
  
 Hi, I'm Wilsen Kannan.
  
-A Certified Packaging Professional (CPP) who has a decade of experience and passionate about:
+A Certified Packaging Professional (CPP) 🏆 who has a decade of experience and passionate about:
  
-- Packaging Innovation
-- Sustainable Packaging
-- Packaging Technology
-- Project Management
+📦 Packaging Innovation
+♻  Sustainable Packaging
+📦 Packaging Technology
+🔬 Project Management
  
-## Qualifications
+## 🏆 Qualifications
 - Bachelor of Mechanical Engineering
 - Diploma in Packaging Technology 
 - Certified Packaging Professional
 
-## Education
+## 📰 Education
 - Australasian Institute of Packaging
 - Institute of Packaging Professional
 - National Energy University
 
-## Skills & Services
+## 📈 Skills & Services
 - Packaging Optimization Study
 - Packaging Design
 - Material Development
